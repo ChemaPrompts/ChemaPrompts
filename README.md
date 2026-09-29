@@ -8,7 +8,9 @@
 
 **🚧 En construcción** — sigo aprendiendo y construyendo aplicaciones.
 
-Just getting started on GitHub, excited to see what the community builds. Empezando en GitHub, con ganas de ver qué hace la gente aquí.
+Just getting started on GitHub, excited to see what the community builds. 
+
+Empezando en GitHub, con ganas de ver qué hace la gente aquí.
 
 **Tools I work with:** ChatGPT, Gemini, Claude
 
