@@ -13,4 +13,4 @@ Just getting started on GitHub, excited to see what the community builds. Empeza
 🌱 Learning by doing — first projects on their way.
 🌱 Aprendiendo sobre la marcha — primeros proyectos en camino.
 
-**📫 LinkedIn:** josemariarodriguezcamarma
+📫 **LinkedIn:** [josemariarodriguezcamarma](https://www.linkedin.com/in/josemariarodriguezcamarma/)
